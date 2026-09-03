@@ -2,7 +2,7 @@
   "name": "俄罗斯方块",
   "short_name": "Tetris",
   "description": "使用 React + Redux 制作的俄罗斯方块",
-  "start_url": "/index.html",
+  "start_url": "/围猫版2027x.html",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#009688",
