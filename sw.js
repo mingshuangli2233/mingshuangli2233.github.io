@@ -1,8 +1,8 @@
 const CACHE_NAME = 'lottery-pwa-v1';
 const urlsToCache = [
   '/',
-  '/index.html',
-  '/Тетрис.html',
+  '/围猫版2027x.html',
+  '/z.html',
   '/manifest.json',
   '/icon-192.png',
   '/icon-512.png'
