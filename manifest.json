@@ -1,0 +1,26 @@
+{
+  "name": "智能识别",
+  "short_name": "六合彩工具",
+  "description": "澳门/香港六合彩投注模拟与风险分析，支持离线使用",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef2f5",
+  "theme_color": "#d4af37",
+  "categories": ["utilities", "games"],
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
