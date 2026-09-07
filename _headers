@@ -1,0 +1,10 @@
+# 禁止缓存所有 HTML 页面
+/*.html Cache-Control: no-cache, no-store, must-revalidate
+
+# 禁止缓存网站首页
+/ Cache-Control: no-cache, no-store, must-revalidate
+
+# 禁止缓存分页、标签页等路径
+/page/* Cache-Control: no-cache, no-store, must-revalidate
+/tag/* Cache-Control: no-cache, no-store, must-revalidate
+/category/* Cache-Control: no-cache, no-store, must-revalidate
